@@ -1,1 +1,1 @@
-task 8. Save current state of directory
+task 9. Duplicate last line
