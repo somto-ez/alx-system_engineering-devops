@@ -1,1 +1,1 @@
-task 12. What’s new
+task 13. Being unique is better than being perfect
